@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 9b96e5c7d8cd6e647b38075a31d516ae
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -5750975282514647337
+    second: Bee_Leg_Left_1|Bee_Leg_Left_1Action
+  - first:
+      74: -6572790303012583279
+    second: Bee_Leg_Left_1|Bee_Leg_Left_3Action
+  - first:
+      74: -1232825675328515798
+    second: Bee_Leg_Left_1|Bee_Leg_Right_1Action
+  - first:
+      74: -2813927573847075308
+    second: Bee_Leg_Left_1|Bee_Leg_Right_3Action
+  - first:
+      74: 1538226691187371555
+    second: Bee_Leg_Left_1|Bee_Wing_Left_1.001Action
+  - first:
+      74: -4422842972007876039
+    second: Bee_Leg_Left_1|Bee_Wing_Left_1Action.001
+  - first:
+      74: 7104663929755406483
+    second: Bee_Leg_Left_3|Bee_Leg_Left_1Action
+  - first:
+      74: 2222839465654483810
+    second: Bee_Leg_Left_3|Bee_Leg_Left_3Action
+  - first:
+      74: 8092210533438206933
+    second: Bee_Leg_Left_3|Bee_Leg_Right_1Action
+  - first:
+      74: 368851721710958570
+    second: Bee_Leg_Left_3|Bee_Leg_Right_3Action
+  - first:
+      74: 785803503670994629
+    second: Bee_Leg_Left_3|Bee_Wing_Left_1.001Action
+  - first:
+      74: 3006631904342523889
+    second: Bee_Leg_Left_3|Bee_Wing_Left_1Action.001
+  - first:
+      74: 1376901791920570264
+    second: Bee_Leg_Right_1|Bee_Leg_Left_1Action
+  - first:
+      74: 4086440974121609213
+    second: Bee_Leg_Right_1|Bee_Leg_Left_3Action
+  - first:
+      74: 4473005004413986011
+    second: Bee_Leg_Right_1|Bee_Leg_Right_1Action
+  - first:
+      74: -2124640931221010120
+    second: Bee_Leg_Right_1|Bee_Leg_Right_3Action
+  - first:
+      74: 6003026381971846278
+    second: Bee_Leg_Right_1|Bee_Wing_Left_1.001Action
+  - first:
+      74: 7912691373453352043
+    second: Bee_Leg_Right_1|Bee_Wing_Left_1Action.001
+  - first:
+      74: -3660635095305874807
+    second: Bee_Leg_Right_3|Bee_Leg_Left_1Action
+  - first:
+      74: 8604369021585120098
+    second: Bee_Leg_Right_3|Bee_Leg_Left_3Action
+  - first:
+      74: 7070963268385998761
+    second: Bee_Leg_Right_3|Bee_Leg_Right_1Action
+  - first:
+      74: 7443296228229459850
+    second: Bee_Leg_Right_3|Bee_Leg_Right_3Action
+  - first:
+      74: -6664413679348732677
+    second: Bee_Leg_Right_3|Bee_Wing_Left_1.001Action
+  - first:
+      74: 6542793473116347039
+    second: Bee_Leg_Right_3|Bee_Wing_Left_1Action.001
+  - first:
+      74: 1529013941119885686
+    second: Bee_Wing_Left_1|Bee_Leg_Left_1Action
+  - first:
+      74: 7343150216642908381
+    second: Bee_Wing_Left_1|Bee_Leg_Left_3Action
+  - first:
+      74: -8279689230394464060
+    second: Bee_Wing_Left_1|Bee_Leg_Right_1Action
+  - first:
+      74: -1657670648140337350
+    second: Bee_Wing_Left_1|Bee_Leg_Right_3Action
+  - first:
+      74: 1751381619169122543
+    second: Bee_Wing_Left_1|Bee_Wing_Left_1.001Action
+  - first:
+      74: 2284224756518777691
+    second: Bee_Wing_Left_1|Bee_Wing_Left_1Action.001
+  - first:
+      74: -1898497710908480069
+    second: Bee_Wing_Left_1.001|Bee_Leg_Left_1Action
+  - first:
+      74: 6556341157708924778
+    second: Bee_Wing_Left_1.001|Bee_Leg_Left_3Action
+  - first:
+      74: -2271970899275986867
+    second: Bee_Wing_Left_1.001|Bee_Leg_Right_1Action
+  - first:
+      74: -3865486795147549671
+    second: Bee_Wing_Left_1.001|Bee_Leg_Right_3Action
+  - first:
+      74: 6626180949482224575
+    second: Bee_Wing_Left_1.001|Bee_Wing_Left_1.001Action
+  - first:
+      74: 4036465033693836019
+    second: Bee_Wing_Left_1.001|Bee_Wing_Left_1Action.001
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
